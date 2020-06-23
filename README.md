@@ -1,5 +1,5 @@
 # RasterRizer
-Help's to create a 2D crochet-pattern by rasterizing hi-res images and raster-editing-tools
+Help's to create a 2D crochet-pattern by rasterizing hi-res images
 
 RasterRizer is a Desktop-Application based on Java Swing.
 
